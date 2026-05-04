@@ -5,10 +5,7 @@ This project presents an interactive E-commerce Sales Dashboard built using Exce
 
 # 🛠️ Tools & Technologies
 Microsoft Excel (Data Cleaning & Preparation)
-Power BI (Dashboard & Visualization)
-
-# 📂 Dataset
-Orders Data and Customer Details Data with Dashboard Document - [Project.zip](https://github.com/user-attachments/files/27338179/Project.zip)
+Power BI (Dashboard & Visualization
 
 # 🎯 Objectives
 Analyze overall sales, profit, and quantity
