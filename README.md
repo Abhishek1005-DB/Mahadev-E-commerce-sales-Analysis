@@ -1,4 +1,4 @@
-# 📊 Mahadev Ecommerce Sales Dashboard
+# Mahadev Ecommerce Sales Dashboard
 
 # 📌 Project Overview
 This project presents an interactive E-commerce Sales Dashboard built using Excel and Power BI. It analyzes sales performance, profit trends, customer behavior, and product categories to help businesses make data-driven decisions and improve overall performance.
