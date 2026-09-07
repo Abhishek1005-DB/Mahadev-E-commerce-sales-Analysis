@@ -45,3 +45,7 @@ Abhishek Bakare
 Aspiring Machine Learning Engineer | Python | SQL | Data Analytics |
 
 ----
+
+⭐ If you found this project interesting, consider giving the repository a star!
+
+----
